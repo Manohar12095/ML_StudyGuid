@@ -17,6 +17,18 @@ Designed for both academic exam preparation (theory, derivations, formula sheets
 
 ---
 
+## 🆕 Latest upgrade — ★ Important Questions edition
+
+- **★ Important questions hub** (`#/important`): every important question from the latest uploads, with an **IMPORTANT** badge, a "revised" tick-box and a question-paper index (IA I, IA II, previous paper) that links each paper question to its answer.
+- **Five new unit chapters** (Unit 1 Introduction · Unit 2 Regression & Decision Tree · Unit 3 Classification · Unit 4 Ensemble · Unit 5 Clustering). Each has: question list, theory answers (definition → working → formula → example → advantages → disadvantages → conclusion), numerical problems with step-by-step solutions, important formulas and quick-revision notes.
+- **New answers:** Random Forest (theory, train/test, job-offer numerical), Boosting (AdaBoost, Gradient Boosting, XGBoost, bagging vs boosting), Naive Bayes (+ Laplace smoothing), KNN, K-Means, Hierarchical clustering (single / complete / average), DBSCAN, perceptron AND, confusion-matrix and regression numericals.
+- **2-mark answers chapter** covering IA I and IA II Part A.
+- **3 new calculators:** binary perceptron trainer, Random Forest vote, DBSCAN playground.
+- **Verification:** every new numerical was recomputed. Differences from the source are shown in the Check-source register (Random Forest tree roots, AND-perceptron weights, sunburn table reconstruction).
+- **Nothing was removed:** all earlier chapters, cards, calculators and saved "revised" ticks are unchanged.
+
+---
+
 ## 📚 Curriculum & Chapter Outline
 
 The notebook covers **27 comprehensive chapters** grouped across course units:
