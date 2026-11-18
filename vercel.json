@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/ML_Study_Notebook",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/ML_Study_Notebook.html",
+      "destination": "/index.html"
+    }
+  ]
+}

@@ -102,13 +102,15 @@ Because [`ML_Study_Notebook.html`](./ML_Study_Notebook.html) is completely self-
 2. Double-click or open `ML_Study_Notebook.html` in any modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera).
 3. No web server, Node.js, Python server, or internet connection is required!
 
-### Option 2: Deploy to GitHub Pages
-To view this study notebook live on the web:
+### Option 2: Deploy to Vercel (Instant 1-Click)
+1. Import this repository [`Manohar12095/ML_StudyGuid`](https://github.com/Manohar12095/ML_StudyGuid) on [Vercel](https://vercel.com).
+2. Leave all build and output settings as default (Framework Preset: Other / None).
+3. Click **Deploy**. Vercel will automatically serve [`index.html`](./index.html) at your root domain (`https://<project-name>.vercel.app`).
+
+### Option 3: Deploy to GitHub Pages
 1. Go to your repository settings on GitHub (`Settings` > `Pages`).
 2. Under **Build and deployment** > **Branch**, select `main` branch and `/ (root)` folder.
-3. If you want `ML_Study_Notebook.html` to be the default landing page, either:
-   - Create an `index.html` redirect, or
-   - Rename/copy `ML_Study_Notebook.html` to `index.html`.
+3. Save, and your site will be live at `https://manohar12095.github.io/ML_StudyGuid/`.
 
 ---
 
@@ -126,3 +128,4 @@ To view this study notebook live on the web:
 - **Course**: CS2303 Machine Learning
 - **Repository**: [Manohar12095/ML_StudyGuid](https://github.com/Manohar12095/ML_StudyGuid)
 - **Maintainer**: Manohar S ([@Manohar12095](https://github.com/Manohar12095))
+
